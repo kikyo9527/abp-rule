@@ -3,7 +3,6 @@
 ! Version: 20190528
 ! Last Modified: 2019年05月28日
 ! Homepage: https://github.com/kikyo9527/abp-rule/edit/master/abp1.txt
-! Update: https://github.com/kikyo9527/abp-rule/edit/master/abp1.txt
 
 ! ----[abp1]----
 ! 百度

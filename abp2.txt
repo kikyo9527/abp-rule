@@ -1,26 +1,26 @@
-# 手机ABP规则 abp2
-# 更新地址 https://raw.githubusercontent.com/kikyo9527/abp-rule/master/abp2.txt
+#手机ABP规则 abp2
+#更新地址 https://raw.githubusercontent.com/kikyo9527/abp-rule/master/abp2.txt
 
-# 简书
+#简书
 jianshu.com##.open-app-btn
 jianshu.com##.note-graceful-button
 jianshu.com##.reward-description
 jianshu.com###recommended-notes
 jianshu.com##.dt-open-bg
 
-# 知乎
+#知乎
 zhihu.com##.Card.HotQuestions
 zhihu.com##div[style="margin-bottom: 10px;"]
 zhuanlan.zhihu.com##.Recommendations-Main
 
-# 百度搜索
+#百度搜索
 baidu.com##.blank-frame
 
-# 百度知道
+#百度知道
 zhidao.baidu.com###feed-recommend
 zhidao.baidu.com###[class*]
 
-# 百度贴吧
+#百度贴吧
 tieba.com##div[class][lgoinprompt="prompt"]
 tieba.baidu.com##.re_enter
 tieba.baidu.com##.father-cut-recommend-normal-box
@@ -31,7 +31,7 @@ fanyi.baidu.com##a[class="app-bar"]
 fanyi.baidu.com##.article
 fanyi.baidu.com##.extra
 
-# nga
+#nga
 nga.178.com###selectTextHintWindow
 nga.178.com##.urltip.urltip2
 bbs.nga.cn###selectTextHintWindow
@@ -42,20 +42,20 @@ nga.178.com##.single_ttip2
 bbs.nga.cn###.single_ttip2
 ngabbs.com##.single_ttip2
 
-# 酷安
+#酷安
 coolapk##.app_download
 coolapk##.under
 
-# miui
+#miui
 miui.com###app
 miui.com##.app_download
 bbs.xiaomi.cn##.bannerBottom
 
-# yy
+#yy
 wap.yy.com###baseText-main
 wap.yy.com##.v-head.v-head-show
 m.douyu.com##.ListHeader
 
-# douyu
+#douyu
 m.douyu.com##.header
 

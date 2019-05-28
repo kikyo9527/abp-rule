@@ -1,3 +1,4 @@
+! 更新地址 https://raw.githubusercontent.com/kikyo9527/abp-rule/master/abp2.txt
 ! 手机ABP规则
 ! 简书
 jianshu.com##.open-app-btn

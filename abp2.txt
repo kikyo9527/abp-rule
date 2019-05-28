@@ -55,5 +55,5 @@ wap.yy.com##.v-head.v-head-show
 m.douyu.com##.ListHeader
 
 #douyu
-wap.yy.com##.header
+m.douyu.com##.header
 

@@ -1,5 +1,4 @@
-#规则地址：https://raw.githubusercontent.com/kikyo9527/abp-rule/master/abp2.txt
-#规则命名：abp2
+#你好https://raw.githubusercontent.com/kikyo9527/abp-rule/master/abp2.txt
 
 #简书
 jianshu.com##.open-app-btn

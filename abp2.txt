@@ -1,4 +1,4 @@
-!!!!=https://raw.githubusercontent.com/kikyo9527/abp-rule/master/abp2.txt
+//* https://raw.githubusercontent.com/kikyo9527/abp-rule/master/abp2.txt */
 
 #简书
 jianshu.com##.open-app-btn
@@ -40,6 +40,8 @@ ngabbs.com##.urltip.urltip2
 nga.178.com##.single_ttip2
 bbs.nga.cn###.single_ttip2
 ngabbs.com##.single_ttip2
+||nga*/common_res/js_dscommon.js
+||nga*/proxy/cache_attach/ds_list.js
 
 #酷安
 coolapk##.app_download
@@ -57,3 +59,7 @@ m.douyu.com##.ListHeader
 
 #douyu
 m.douyu.com##.header
+
+#qq
+a.app.qq.com###appbao-download-banner
+a.app.qq.com##.tips.app.horizontal

@@ -67,6 +67,7 @@ douyu.com##.YubaGroup-cover
 douyu.com##.layout-Module-extra.ListHeader-extra
 douyu.com##.normalDiv-8b686d
 douyu.com##div[class^="recommendApp-"]
+douyu.com##div[class^=multiBitRate]
 
 ! YY
 wap.yy.com##.v-head.v-head-show

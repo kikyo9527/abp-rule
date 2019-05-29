@@ -1,4 +1,4 @@
-ad0.txt 是ad的修改版
+adp0.txt 是ad的修改版
 
 abp1.txt 是电脑
 

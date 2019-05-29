@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: ad0
+! Title: adp0
 ! Version: 20190529
 ! Last Modified: 2019年05月29日 10:30
 ! Homepage: 

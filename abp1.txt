@@ -61,7 +61,6 @@ douyu.com###js-player-guessgame
 douyu.com##.layout-Player-guessgame
 douyu.com###js-bottom
 douyu.com##.layout-Bottom
-douyu.com##div[class*="public-DropMenu Game"]
 douyu.com##.yuba-group-active
 douyu.com##div[class="YubaGroup-active yuba-group-active"]
 douyu.com##.layout-Module-extra.ListHeader-extra
@@ -73,6 +72,7 @@ douyu.com##div[class*="GiftInfoPanel is-visible"]
 douyu.com##div[class^="focus_box_con"]
 douyu.com##div[class^="focusScreen"]
 douyu.com##div[class="public-DropMenu-drop"]
+douyu.com##.YubaGroup-cover
 
 ! YY
 wap.yy.com##.v-head.v-head-show

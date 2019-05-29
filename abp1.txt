@@ -89,6 +89,7 @@ yy.com##.w-side-notice__msglist__item.w-side-notice__msglist__item--text.w-side-
 yy.com##.w-entbar-taskPop
 yy.com###roll-broadcast-id
 yy.com###wHeadDownloadGuideDrag
+yy.com###entbarGiftboxPopEl
 
 ! 杂
 4455uz.com##.overlay-content

@@ -23,7 +23,7 @@ zhidao.baidu.com###[class*]
 tieba.com##div[class][lgoinprompt="prompt"]
 tieba.baidu.com##.re_enter
 tieba.baidu.com##.father-cut-recommend-normal-box
-#tieba.baidu.com##.father-cut-daoliu-normal-box
+tieba.baidu.com##.father-cut-daoliu-normal-box
 
 # 百度翻译
 fanyi.baidu.com##a[class="app-bar"]

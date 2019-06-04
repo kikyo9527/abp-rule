@@ -24,6 +24,7 @@ tieba.com,tieba.baidu.com##div[class][lgoinprompt="prompt"]
 tieba.com,tieba.baidu.com##.re_enter
 tieba.com,tieba.baidu.com##.father-cut-recommend-normal-box
 tieba.com,tieba.baidu.com##.father-cut-daoliu-normal-box
+tieba.com,tieba.baidu.com##.appPromote_wrapper.scale-1px-bottom
 
 # 百度翻译
 fanyi.baidu.com##a[class="app-bar"]

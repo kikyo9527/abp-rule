@@ -48,9 +48,9 @@ zhuanlan.zhihu.com##.Recommendations-Main
 zhidao.baidu.com###feed-recommend
 
 ! NGA
-nga.178.com,ngabbs.com,ngabbs.com,nga.178.com###selectTextHintWindow
-nga.178.com,ngabbs.com,ngabbs.com,nga.178.com##.urltip.urltip2
-nga.178.com,ngabbs.com,ngabbs.com,nga.178.com##.single_ttip2
+nga.178.com,ngabbs.com,ngabbs.com,nga.cn###selectTextHintWindow
+nga.178.com,ngabbs.com,ngabbs.com,nga.cn##.urltip.urltip2
+nga.178.com,ngabbs.com,ngabbs.com,nga.cn##.single_ttip2
 
 ! 斗鱼
 douyu.com##.layout-Customize
@@ -73,6 +73,7 @@ douyu.com##div[class^="focus_box_con"]
 douyu.com##div[class^="focusScreen"]
 douyu.com##div[class="public-DropMenu-drop"]
 douyu.com##.YubaGroup-cover
+douyu.com##.FudaiGiftToolBarTips
 
 ! YY
 wap.yy.com##.v-head.v-head-show

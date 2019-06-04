@@ -24,7 +24,12 @@ tieba.com,tieba.baidu.com##div[class][lgoinprompt="prompt"]
 tieba.com,tieba.baidu.com##.re_enter
 tieba.com,tieba.baidu.com##.father-cut-recommend-normal-box
 tieba.com,tieba.baidu.com##.father-cut-daoliu-normal-box
-tieba.com,tieba.baidu.com##.appPromote_wrapper.scale-1px-bottom
+tieba.com,tieba.baidu.com##.appPromote
+tieba.com,tieba.baidu.com##.top_bar_content_text
+tieba.com,tieba.baidu.com##.pb
+tieba.com,tieba.baidu.com##.8327
+tieba.com,tieba.baidu.com##.appPromote_wrapper
+tieba.com,tieba.baidu.com##.top_bar_content
 
 # 百度翻译
 fanyi.baidu.com##a[class="app-bar"]

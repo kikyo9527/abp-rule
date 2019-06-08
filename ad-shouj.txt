@@ -50,7 +50,6 @@ zhidao.baidu.com###feed-recommend
 ! NGA
 nga.178.com,ngabbs.com,ngabbs.com,nga.cn###selectTextHintWindow
 nga.178.com,ngabbs.com,ngabbs.com,nga.cn##.urltip.urltip2
-nga.178.com,ngabbs.com,ngabbs.com,nga.cn##.single_ttip2
 
 ! 斗鱼
 douyu.com##.layout-Customize

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: adp0
-! Version: 20190529
-! Last Modified: 2019年05月29日 10:30
-! Homepage: 
+! Title: ad-d-other
+! Version: 20190609
+! Last Modified: 2019年06月09日
+! Homepage: https://github.com/kikyo9527/abp-rule/edit/master/ad-d-other.txt
 !
 ! Fix for MS Edge
 tieba.baidu.com###pagelet_entertainment-liveshow\/pagelet\/video_head

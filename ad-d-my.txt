@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: abp1
-! Version: 20190528
-! Last Modified: 2019年05月28日
-! Update: https://raw.githubusercontent.com/kikyo9527/abp-rule/master/abp1.txt
+! Title: ad-d-my
+! Version: 20190609
+! Last Modified: 2019年06月09日
+! Update: https://github.com/kikyo9527/abp-rule/edit/master/ad-d-my.txt
 
 ! ----[abp1]----
 ! 百度

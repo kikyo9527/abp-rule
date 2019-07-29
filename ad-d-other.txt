@@ -73,6 +73,7 @@ douyu.com##div[class^="focusScreen"]
 douyu.com##div[class="public-DropMenu-drop"]
 douyu.com##.YubaGroup-cover
 douyu.com##.FudaiGiftToolBarTips
+douyu.com##.FishpondTreasure-entranceTip
 
 ! YY
 wap.yy.com##.v-head.v-head-show
@@ -90,6 +91,7 @@ yy.com##.w-entbar-taskPop
 yy.com###roll-broadcast-id
 yy.com###wHeadDownloadGuideDrag
 yy.com###entbarGiftboxPopEl
+yy.com##.yex__auto-play-popup
 
 ! 杂
 4455uz.com##.overlay-content

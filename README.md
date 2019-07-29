@@ -1,8 +1,10 @@
-adp0.txt 是ad的修改版
-
-abp1.txt 是电脑
-
-abp2.txt 是手机
-
 Kikyo 1.0.txt 是以前版本
+
+ad-d-my.txt 是电脑修订
+
+ad-d-other.txt 是电脑自定义
+
+ab-phone.txt 是手机自定义
+
+
 
